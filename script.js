@@ -1,4 +1,6 @@
-let boxes =document.querySelectorAll(".box");
-let resetbtn=document.querySelector(".reset");
+let boxes = document.querySelectorAll(".box");
+let resetbtn = document.querySelector(".reset");
 
-let turnX= true;
+let turn0=true;
+
+let arr = ["apple","banana","litchi"];
